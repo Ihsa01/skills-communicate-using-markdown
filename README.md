@@ -12,9 +12,7 @@
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
-# <h1>New File</h1>
-## <h2>Next</h2>
-Wellll......this is it
+
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
